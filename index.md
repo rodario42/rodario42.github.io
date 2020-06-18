@@ -6,3 +6,4 @@ Tungdil wächst in einem Dorf als einziger Zwerg unter Menschen auf. Er ist ein 
 * ehrgeizig
 * zielstrebig
 * zwergisch
+> Die Zwerge des fünften Stammes gehören zu uns wie alle anderen Stämme.
